@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-este es el fin3
-=======
-este es el fin4
->>>>>>> origin/master
+Modificacion desde local <3>
+
+modificacion desde Github
