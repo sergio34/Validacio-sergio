@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-este es el fin3
-=======
-este es el fin4
->>>>>>> origin/master
+ hola esto es fi de dani gala arroyo 
